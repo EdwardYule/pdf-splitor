@@ -50,6 +50,7 @@ new Vue({
     }
   },
   created(){
+    // test
     this.confirm();
     this.formattedResult = this.split(this.result);
   }
